@@ -7,5 +7,7 @@
 
 NovaGUI : Free Graphical User interface for C++ with minimal dependencies using ImGui from Ocornut and edited for loader or simple application modifications and improvements will arrive little by little to show you the potential of ImGui, free to use ! Enjoy !
 
-Ocornut : https://github.com/ocornut/imgui \n
+Ocornut : https://github.com/ocornut/imgui
+
+
 KleskBY : https://github.com/KleskBY/DirectX9ImGuiDesktopApp
